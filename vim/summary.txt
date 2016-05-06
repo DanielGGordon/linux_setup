@@ -1,0 +1,15 @@
+Set up vim how I like it!
+
+Make sure I have vim installed
+Download and install pathogen
+Download and install Vim-Airline
+Download and install Vim-Airline themes
+Create my .vimrc how I liked it
+
+Potential issues:
+
+1. Vim-airline theme now is 'murmur'. Looks like garbage unless you install the correct 
+    font and change it in the terminal
+
+2. Need to pick a normal looking airline theme that doesn't look like garbage
+

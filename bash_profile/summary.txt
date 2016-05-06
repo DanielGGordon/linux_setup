@@ -1,0 +1,11 @@
+Three scripts.
+
+1. bash_aliases.sh
+    - This is for creating all the common bash aliases I use. Should be run after the bash_profile.sh
+
+2. bash_profile.sh
+    - For adding to the .bash_profile or .bashrc or .profile
+    - Add history settings, as well as desired bash prompt
+
+3. bash_functions.sh
+    - Add all the common bash functions I use

@@ -1,0 +1,6 @@
+Setting up git on a new machine
+
+1. Obviously, download and install the most recent git installation
+2. configure git with email and name
+3. enable git bash prompt (why oh why isn't it default!)
+4. add git aliases and settings to ~/.gitconfig
